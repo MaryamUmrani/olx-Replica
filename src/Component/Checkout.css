@@ -1,0 +1,43 @@
+  .check_out {
+      display: flex;
+      padding: 20px;
+      background-color: #D9E3F0;
+      height: max-content;
+  }
+
+  .checkout_ad {
+      width: 100%;
+      position: relative;
+      height: 101px;
+      top: -17px;
+  }
+
+  .checkout_title {
+      color: blue;
+      margin-right: 10px;
+      padding: 10;
+  }
+
+  /* .check_out {
+    display: flex;
+    padding: 20px;
+    background-color: #fff;
+    height: max-content;
+}
+
+.checkout_ad {
+    width: 100%;
+    position: relative;
+    height: 101px;
+   
+    position: -webkit-sticky;
+    position: sticky;
+} */
+
+  /* .lol1 {
+    color: red;
+    position: relative;
+    margin-left: -350px;
+    font-family: 'Noto Serif', serif;
+    font-weight: bold;
+} */

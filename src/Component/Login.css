@@ -1,0 +1,80 @@
+.login {
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login__logo {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    object-fit: contain !important;
+    width: 100px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    font-size: 50px !important;
+    color: blue;
+}
+
+.login__container {
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 20px;
+}
+
+.login__container>h1 {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.login__container>form>h5 {
+    margin-bottom: 5px;
+}
+
+.login__container>form>input {
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    width: 98%;
+}
+
+.login__container>p {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.lol_btn {
+    border-radius: 20px;
+}
+
+/* .facebook__icon {
+     font-size: 100px !important;
+     margin-top: 25px;
+ }
+
+ .btn__lol {
+     margin-top: 250px;
+     align-items: center;
+     justify-content: center;
+     border-radius: 20px;
+ }
+
+ .btn__lol:hover {
+     background: #efefef;
+     color: black;
+ } */
+
+/* .main___container {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    position: relative;
+    margin-left: 460px;
+    margin-top: 10px;
+}  
+  */
